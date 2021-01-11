@@ -20,3 +20,12 @@ something like:
 [Icon Theme]
 Inherits=dmz-yellow
 ```
+
+## Example
+
+This white png:
+![white cursor](DMZ-White/pngs/48x48/left_ptr.png)
+
+Got recolorized into:
+![yellow cursor](DMZ-Yellow/pngs/48x48/left_ptr.png)
+
