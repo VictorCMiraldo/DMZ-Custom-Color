@@ -26,6 +26,9 @@ Inherits=dmz-yellow
 This white png:
 ![white cursor](DMZ-White/pngs/48x48/left_ptr.png)
 
-Got recolorized into:
+Got recolorized into hsl(37,76,60):
 ![yellow cursor](DMZ-Yellow/pngs/48x48/left_ptr.png)
+
+Or recolorized into a mint variant:
+![yellow cursor](DMZ-Mint/pngs/48x48/left_ptr.png)
 

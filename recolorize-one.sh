@@ -1,16 +1,16 @@
 #!/bin/bash
 
-if [[ "$#" -ne "1" ]]; then
-  echo "Gimme an image!"
+if [[ "$#" -ne "4" ]]; then
+  echo "usage: recolorize-one <file> h s l"
   exit 1
 fi
 
 file=$1
 
 # The target color you want in HSL representation
-h=37
-s=76
-l=60
+h=$2
+s=$3
+l=$4
 
 # Don't change steps and thresh; I've experimented around and found these to be
 # optimal.
